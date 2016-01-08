@@ -7,7 +7,7 @@ class DigitalPianism_ReportsViewer_Model_Report extends Varien_Object
      *
      * @param string fileName
      * @param string filePath
-     * @return FactoryX_ReportsViewer_Model_Report
+     * @return DigitalPianism_ReportsViewer_Model_Report
      */
     public function load($fileName, $filePath)
     {
